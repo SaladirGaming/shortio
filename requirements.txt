@@ -1,0 +1,4 @@
+flask
+gunicorn
+psycopg2-binary  # Für PostgreSQL
+python-dotenv     # Für Umgebungsvariablen (optional)
