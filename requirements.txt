@@ -1,4 +1,5 @@
 flask
 gunicorn
 psycopg2-binary  # Für PostgreSQL
+psycopg2
 python-dotenv     # Für Umgebungsvariablen (optional)
